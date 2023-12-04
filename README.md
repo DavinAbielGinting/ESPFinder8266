@@ -3,7 +3,7 @@ The ESPFinder8266 is a small device that can be placed in a backpack or your bel
 
 **Features:**
 
-* Long battery life because it's using RSSI instead of GPS
+* Long battery life because it's using Bluetooth's RSSI instead of GPS
 * Simple setup and operation
 * Semi-accurate location tracking using RSSI
 * Warns you when your belongings get stolen
