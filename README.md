@@ -31,3 +31,17 @@ The ESPFinder8266 is a small device that can be placed in a backpack or your bel
 4. Upload the app to your phone or using the built-in emulator on Android Studio
    
 The ESPFinder8266 is a valuable tool for anyone who wants to keep track of their belongings. It is easy to use and provides accurate location tracking.
+
+**Made Possible by:**
+
+* JS Yoon. (2023, May 9). Retrieved June 15, 2023, from
+   https://github.com/JSYoon-git/BLE-RSSI-monitoring
+
+* Bosko Popovic. Retrieved June 15, 2023, from
+   https://pub.dev/packages/flutter_blue_plus
+
+* Hi!Genis. Retrieved June 15, 2023, from
+   https://github.com/dong-higenis/flutter_ble_scan_example
+
+* Hi!Genis. (2021, June 29). Retrieved June 15, 2023, from
+   https://blog.naver.com/chandong83/222414483554
